@@ -5,4 +5,8 @@ This project was based on YouTube tutorial (https://youtu.be/a5EmgTZva-4), and t
 
 
 ### Visualization
-![alt text](http://url/to/img.png)
+![](https://github.com/juliocza7/data-analitics_e-mails/blob/main/visualization/emailsperyear.png)
+![](https://github.com/juliocza7/data-analitics_e-mails/blob/main/visualization/emailspermonthyear.png)
+![](https://github.com/juliocza7/data-analitics_e-mails/blob/main/visualization/emailsperday.png)
+![](https://github.com/juliocza7/data-analitics_e-mails/blob/main/visualization/emailsperhour.png)
+![](https://github.com/juliocza7/data-analitics_e-mails/blob/main/visualization/top10senders.png)
